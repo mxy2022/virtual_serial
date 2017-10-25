@@ -1,0 +1,13 @@
+mkptych.py
+
+  --> Create a pair of virtual serial(pty), master and slave.
+	    Then you can send and receive data between them.
+			Note: the pty number may be change when python script was restart.
+
+receive.c
+
+  --> receive data.
+
+send.c
+
+  --> send data.
